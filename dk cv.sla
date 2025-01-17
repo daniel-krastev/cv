@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.2">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="595.27559" PAGEHEIGHT="841.88976" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="0" ABSTSPALTEN="0" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="FromPDF#171513" SPACE="RGB" R="22.5132751464844" G="20.6572723388672" B="19.1631317138672"/>
+        <COLOR NAME="FromPDF#697084" SPACE="RGB" R="104.998397827148" G="111.998291015625" B="131.997985839844"/>
+        <COLOR NAME="FromPDF#ffffff" SPACE="RGB" R="255" G="255" B="255"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Brother_HL-L2310D_series" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="1" rangeTxt="1" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="13" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Subset Name="Roboto Bold"/>
+            <Subset Name="Roboto Italic"/>
+            <Subset Name="Roboto Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.27559" PAGEHEIGHT="841.88976" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.27559" PAGEHEIGHT="841.88976" BORDERLEFT="0" BORDERRIGHT="0" BORDERTOP="0" BORDERBOTTOM="0" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="125.511811023622" YPOS="44.1499958314034" OwnPage="0" ItemID="2035360793" PTYPE="6" WIDTH="569.764" HEIGHT="118.093756308275" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PCOLOR="FromPDF#697084" PLINEART="1" path="M0 0 L569.764 0 L569.764 118.093 L0 118.093 L0 0 Z" copath="M0 0 L569.764 0 L569.764 118.093 L0 118.093 L0 0 Z" gXpos="1.63779602362204" gYpos="12.6460588235294" gWidth="570.401795" gHeight="552.544693823529" LAYER="0"/>
+        <PAGEOBJECT XPOS="128.212598425197" YPOS="91.8141158314034" OwnPage="0" ItemID="2035403513" PTYPE="7" WIDTH="269.85" HEIGHT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.27559" PCOLOR2="FromPDF#ffffff" PLINEART="1" path="M0 0 L269.85 0 " copath="M0 0 L269.85 0 L0 0 Z" gXpos="4.338583425197" gYpos="60.3101788235294" gWidth="570.401795" gHeight="552.544693823529" LAYER="0"/>
+        <PAGEOBJECT XPOS="134.850393700787" YPOS="202.435415831403" OwnPage="0" ItemID="2035468281" PTYPE="2" WIDTH="10.1048305708878" HEIGHT="12.96" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" LOCALSCX="0.48" LOCALSCY="0.48" LOCALX="-1.48029736616688e-14" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="0" Pagenumber="0" PFILE="" isInlineImage="1" inlineImageExt="png" ImageData="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" IRENDER="0" EMBEDDED="0" path="M3.81837e-15 12.96 L0 0 L10.1048 0 L10.1048 12.96 L3.81837e-15 12.96 Z" copath="M0 0 L10.2665 0 L10.2665 12.96 L0 12.96 L0 0 Z" gXpos="134.850393700787" gYpos="202.435415831403" gWidth="10.1048305708878" gHeight="12.96" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="134.850393700787" YPOS="178.754095831403" OwnPage="0" ItemID="2035543065" PTYPE="2" WIDTH="13.8597839940549" HEIGHT="9.41441" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" LOCALSCX="0.48" LOCALSCY="0.48" LOCALX="-1.48029736616688e-14" LOCALY="-4.16666666798922e-05" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="0" Pagenumber="0" PFILE="" isInlineImage="1" inlineImageExt="png" ImageData="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" IRENDER="0" EMBEDDED="0" path="M0 9.41441 L0 0 L13.8598 0 L13.8598 9.41441 L0 9.41441 Z" copath="M0 0 L13.8598 0 L13.8598 9.6 L0 9.6 L0 0 Z" gXpos="134.850393700787" gYpos="178.754095831403" gWidth="13.8597839940549" gHeight="9.41441" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="434.963826642921" YPOS="180.754095831403" OwnPage="0" ItemID="2035479241" PTYPE="2" WIDTH="6.67322933047086" HEIGHT="10.56" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" LOCALSCX="0.48" LOCALSCY="0.48" LOCALX="0" LOCALY="-4.16666666798922e-05" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="0" Pagenumber="0" PFILE="" isInlineImage="1" inlineImageExt="png" ImageData="AAACfnicAX4Cgf2JUE5HDQoaCgAAAA1JSERSAAAADQAAABYIBgAAABv6FiQAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAIwSURBVDiNbZIxa1VBEIW/M7v3BSWvCEiUgDbplDRBsVFQ0BSC2CgYsLSxUPAn2NoEC7toZWVnIUoKwR+gnZUooqL4JCAomuTuzljc+5JnzMDuvcwezpkzMzp56tLd4ycWb7tvZUmgKdwdSZiB14oZRFQklfsr91Z049ad1pJnmVNr5dfPzdFoNFrb2PiNmTE/P780GORZvCKJ76MfJWcjr609v962G3+apiHnAW1bgEpKiY8f3j5rmoZwJ+XBvvPnLqxmcN6/f/e43fz1E6+A0UXtPhIgiGCwbzg8e2ZpNdeyRVQHOZY6D+CYOe5A0BMZEYGZkXPOyAK2Ci7vAU44qNcMvNOuLQqwCAe8K0MgBRpz22SFQupoDDnuZUyJgp3wPh3dlVKirQUL6BgiQGJH5/9wd5RT9xqybQPRm54Q2m7EOPJerNH1byJjE4RO/uchJg3tEPTt2EFqbD52g3271V2hAf1I9nY84Wbyv5tRPwobq6if2Rio3fm+PAdcu9n3Mmbbx5SgjncmAuu7r76cpA4oS4T3G1EREQKlzoGPWTPJGrxXCQfMcHesurA0BWEQDZBIaYpAFO9nIwPLRAQ5G1k0XL6y/NR9o1ILyYy2bWN9ff3N3NzcsVpbOUG4sDyVSji5VMrMzIHTkmPqlvLbl6+vX754cvPqteVXswdnF12OlCDE58+fSlIzMzx85MjJWovlpqG0hf3T04eOLixcnB4OF1NOCsADZCqPHjxc+Qv9VQLiYjHTAgAAAABJRU5ErkJggssvIOU=" IRENDER="0" EMBEDDED="0" path="M0 10.56 L0 0 L6.67323 0 L6.67323 10.56 L0 10.56 Z" copath="M0 0 L6.67323 0 L6.67323 10.56 L0 10.56 L0 0 Z" gXpos="434.963826642921" gYpos="180.754095831403" gWidth="6.67322933047086" gHeight="10.56" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="434.963826642921" YPOS="203.435415831403" OwnPage="0" ItemID="2035491097" PTYPE="2" WIDTH="13.8597839940549" HEIGHT="12.96" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" LOCALSCX="0.48" LOCALSCY="0.48" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="0" Pagenumber="0" PFILE="" isInlineImage="1" inlineImageExt="png" ImageData="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" IRENDER="0" EMBEDDED="0" path="M0 12.96 L0 0 L13.8598 0 L13.8598 12.96 L0 12.96 Z" copath="M0 0 L13.8598 0 L13.8598 12.96 L0 12.96 L0 0 Z" gXpos="434.963826642921" gYpos="203.435415831403" gWidth="13.8597839940549" gHeight="12.96" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="434.963826642921" YPOS="227.349195831403" OwnPage="0" ItemID="2035589209" PTYPE="2" WIDTH="13.8597839940549" HEIGHT="13.8018" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" LOCALSCX="0.48" LOCALSCY="0.48" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="0" Pagenumber="0" PFILE="" isInlineImage="1" inlineImageExt="png" ImageData="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" IRENDER="0" EMBEDDED="0" path="M0 13.8018 L0 0 L13.8598 0 L13.8598 13.8018 L0 13.8018 Z" copath="M0 0 L13.8598 0 L13.8598 14.0551 L0 14.0551 L0 0 Z" gXpos="434.963826642921" gYpos="227.349195831403" gWidth="13.8597839940549" gHeight="13.8018" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="266.358655831403" OwnPage="0" ItemID="2035500585" PTYPE="7" WIDTH="549.598" HEIGHT="1.13385826771654" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.27559" PCOLOR2="FromPDF#697084" PLINEART="1" path="M0 0 L549.598 0 " copath="M0 0 L549.598 0 L0 0 Z" gXpos="-0.527558307086594" gYpos="18.913542352941" gWidth="550.87359" gHeight="19.551337352941" LAYER="0"/>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="243.937007874016" OwnPage="0" ItemID="2035584633" PTYPE="4" WIDTH="183.831987433796" HEIGHT="18.5201039128424" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L183.832 0 L183.832 18.5201 L0 18.5201 L0 0 Z" copath="M0 0 L183.832 0 L183.832 18.5201 L0 18.5201 L0 0 Z" gXpos="-0.527558307086595" gYpos="-3.50810560444623" gWidth="550.87359" gHeight="19.551337352941" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="15" FONT="Roboto Bold" FONTSIZE="16" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="16" FCOLOR="FromPDF#697084" CH="WORK EXPERIENCE"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="132.181102362205" YPOS="45.4973228346457" OwnPage="0" ItemID="2035600489" PTYPE="4" WIDTH="313.549019607843" HEIGHT="24.8300138953219" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L313.549 0 L313.549 24.83 L0 24.83 L0 0 Z" copath="M0 0 L313.549 0 L313.549 24.83 L0 24.83 L0 0 Z" gXpos="8.307087362205" gYpos="13.9933858267717" gWidth="570.401795" gHeight="552.544693823529" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular" FONTSIZE="22" FCOLOR="White"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="22" FCOLOR="White" CH="Daniel Krastev"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="132.181102362205" YPOS="68.9745252431681" OwnPage="0" ItemID="2035424441" PTYPE="4" WIDTH="212.392156862745" HEIGHT="19.3733209819361" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L212.392 0 L212.392 19.3733 L0 19.3733 L0 0 Z" copath="M0 0 L212.392 0 L212.392 19.3733 L0 19.3733 L0 0 Z" gXpos="8.307087362205" gYpos="37.4705882352941" gWidth="570.401795" gHeight="552.544693823529" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="16" FONT="Roboto Regular" FONTSIZE="16" FCOLOR="White"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="16" FCOLOR="White" CH="Software Engineer"/>
+                <trail LINESP="16"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="602.235294117647" YPOS="22.503937007874" OwnPage="0" ItemID="2035649561" PTYPE="2" WIDTH="90.7086614173228" HEIGHT="90.7086614173228" FRTYPE="1" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="0.04" LOCALSCY="0.04" LOCALX="-24.9597237046231" LOCALY="-1274.10536278873" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" Pagenumber="0" PFILE="resources/PXL_20250116_133302827.jpg" PRFILE="Embedded sRGB" IRENDER="0" EPROF="Embedded sRGB" path="M90.7087 45.3543 C90.7087 70.4037 70.4037 90.7087 45.3543 90.7087 C20.3058 90.7087 0 70.4037 0 45.3543 C0 20.3058 20.3058 0 45.3543 0 C70.4037 0 90.7087 20.3058 90.7087 45.3543 Z" copath="M90.7087 45.3543 C90.7087 70.4037 70.4037 90.7087 45.3543 90.7087 C20.3058 90.7087 0 70.4037 0 45.3543 C0 20.3058 20.3058 0 45.3543 0 C70.4037 0 90.7087 20.3058 90.7087 45.3543 Z" gXpos="478.361279117647" gYpos="-9" gWidth="570.401795" gHeight="552.544693823529" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="132.181102362205" YPOS="97.7392311255211" OwnPage="0" ItemID="2035744345" PTYPE="4" WIDTH="487.076686066415" HEIGHT="67.6349557967658" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L487.077 0 L487.077 67.635 L0 67.635 L0 0 Z" copath="M0 0 L487.077 0 L487.077 67.635 L0 67.635 L0 0 Z" gXpos="8.307087362205" gYpos="66.2352941176471" gWidth="570.401795" gHeight="552.544693823529" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular" FONTSIZE="12" FCOLOR="White"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="White" CH="Working across different aspects of products—from mobile to backend and web development—has provided valuable expertise and a broader perspective on software systems. My core strength lies in backend technologies, where I thrive on solving complex problems and delivering effective, reliable solutions."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.544318194852" YPOS="178.327466419639" OwnPage="0" ItemID="2035633321" PTYPE="4" WIDTH="185.702988155637" HEIGHT="16.5780453913849" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" copath="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" gXpos="159.544318194852" gYpos="178.327466419639" gWidth="185.702988155637" gHeight="16.5780453913849" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH="danielkrastev@yahoo.com"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="159.544318194852" YPOS="203.327466419639" OwnPage="0" ItemID="2035953753" PTYPE="4" WIDTH="185.702988155637" HEIGHT="16.5780453913849" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" copath="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" gXpos="159.544318194852" gYpos="203.327466419639" gWidth="185.702988155637" gHeight="16.5780453913849" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH="Yambol, BG"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="456.183968366102" YPOS="226.327466419639" OwnPage="0" ItemID="2035679401" PTYPE="4" WIDTH="185.702988155637" HEIGHT="16.5780453913849" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" copath="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" gXpos="456.183968366102" gYpos="226.327466419639" gWidth="185.702988155637" gHeight="16.5780453913849" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH="github.com/daniel-krastev"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="456.183968366102" YPOS="179.327466419639" OwnPage="0" ItemID="2035573897" PTYPE="4" WIDTH="185.702988155637" HEIGHT="16.5780453913849" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" copath="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" gXpos="456.183968366102" gYpos="179.327466419639" gWidth="185.702988155637" gHeight="16.5780453913849" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH="(+359) 892 928 550"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="456.183968366102" YPOS="203.327466419639" OwnPage="0" ItemID="2035961161" PTYPE="4" WIDTH="185.702988155637" HEIGHT="16.5780453913849" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" copath="M0 0 L185.703 0 L185.703 16.578 L0 16.578 L0 0 Z" gXpos="456.183968366102" gYpos="203.327466419639" gWidth="185.702988155637" gHeight="16.5780453913849" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH="linkedin.com/in/daniel-krastev"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="274.448818897638" OwnPage="0" ItemID="2036067673" PTYPE="4" WIDTH="488.563505648751" HEIGHT="16.1426915200841" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L488.564 0 L488.564 16.1427 L0 16.1427 L0 0 Z" copath="M0 0 L488.564 0 L488.564 16.1427 L0 16.1427 L0 0 Z" gXpos="0" gYpos="0" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084" CH="Full Stack Developer"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="12" FCOLOR="Black" CH=" @ "/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="Black" CH="Hralupa (hralupa.bg &amp; agency.hralupa.bg) | Own Project"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="290.591578226635" OwnPage="0" ItemID="2036033305" PTYPE="4" WIDTH="566.041999999999" HEIGHT="72.4005477576172" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L566.042 0 L566.042 72.4005 L0 72.4005 L0 0 Z" copath="M0 0 L566.042 0 L566.042 72.4005 L0 72.4005 L0 0 Z" gXpos="0" gYpos="16.1428928860801" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular"/>
+                <ITEXT FONT="Roboto Italic" FONTSIZE="10" FCOLOR="FromPDF#697084" CH="July 2023 - December 2024"/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Designed and implemented a scalable database schema to support multi-user roles and property listings."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Developed a responsive front-end web application using SvelteKit and TailwindCSS."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Implemented a cost-efficient, map-based search feature using MapLibre GL JS and PMTiles, enabling geospatial search."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Integrated payment APIs (Stripe), email services (Brevo), and CAPTCHA solutions for secure and smooth user interactions."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="374.330708661417" OwnPage="0" ItemID="2036023913" PTYPE="4" WIDTH="538.582677165355" HEIGHT="16.1426915200841" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L538.583 0 L538.583 16.1427 L0 16.1427 L0 0 Z" copath="M0 0 L538.583 0 L538.583 16.1427 L0 16.1427 L0 0 Z" gXpos="3.97903932025656e-13" gYpos="-28.1181102362206" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084" CH="Backend Engineer "/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="Black" CH="@ Thought Machine - London, UK | FinTech"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="391.125508346374" OwnPage="0" ItemID="2036081977" PTYPE="4" WIDTH="566.041999999999" HEIGHT="102.944330749826" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L566.042 0 L566.042 102.944 L0 102.944 L0 0 Z" copath="M0 0 L566.042 0 L566.042 102.944 L0 102.944 L0 0 Z" gXpos="3.97903932025656e-13" gYpos="-11.3231769941804" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular"/>
+                <ITEXT FONT="Roboto Italic" FONTSIZE="10" FCOLOR="FromPDF#697084" CH="July 2019 - December 2022"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH=" Designed, developed, deployed, and monitored multiple microservices using Go, Python, gRPC, and Protobufs, supporting mission-critical banking systems."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Leveraged Kubernetes, Docker, and Kafka to ensure scalable and reliable deployments, while maintaining and optimizing production systems for live client support."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Led technical interviews and supported onboarding, ensuring smooth integration of new hires into the team."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Provided live client support during on-call duties, troubleshooting and resolving critical issues."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="503.621732283465" OwnPage="0" ItemID="2036680361" PTYPE="4" WIDTH="545.911331735707" HEIGHT="16.1426915200841" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L545.911 0 L545.911 16.1427 L0 16.1427 L0 0 Z" copath="M0 0 L545.911 0 L545.911 16.1427 L0 16.1427 L0 0 Z" gXpos="3.97903932025656e-13" gYpos="-23.8270866141734" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084" CH="Software Developer "/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="Black" CH="@ Ideaworks, Faversham (UK) | Smart Homes"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="520.416531968422" OwnPage="0" ItemID="2036759881" PTYPE="4" WIDTH="566.041999999999" HEIGHT="73.0446114756044" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L566.042 0 L566.042 73.0446 L0 73.0446 L0 0 Z" copath="M0 0 L566.042 0 L566.042 73.0446 L0 73.0446 L0 0 Z" gXpos="3.97903932025656e-13" gYpos="-7.03215337213317" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular"/>
+                <ITEXT FONT="Roboto Italic" FONTSIZE="10" FCOLOR="FromPDF#697084" CH="July 2017 - July 2017"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH=" Enhanced Android/Java products and C++ libraries by adding new features, fixing bugs, and optimizing performance, while contributing to future flagship development using Dart and Flutter SDK."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONTSIZE="10" CH=" Streamlined development and testing processes with Selenium, XML-based configuration, and Git version control, collaborating effectively through pair-testing and joint development."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="630.358655831403" OwnPage="0" ItemID="2036439353" PTYPE="7" WIDTH="549.598" HEIGHT="1.13385826771654" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.27559" PCOLOR2="FromPDF#697084" PLINEART="1" path="M0 0 L549.598 0 " copath="M0 0 L549.598 0 L0 0 Z" gXpos="-0.527558307086594" gYpos="382.913542352941" gWidth="550.87359" gHeight="19.551337352941" LAYER="0"/>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="607.937007874016" OwnPage="0" ItemID="2036458649" PTYPE="4" WIDTH="183.831987433796" HEIGHT="18.5201039128424" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L183.832 0 L183.832 18.5201 L0 18.5201 L0 0 Z" copath="M0 0 L183.832 0 L183.832 18.5201 L0 18.5201 L0 0 Z" gXpos="-0.527558307086595" gYpos="360.491894395554" gWidth="550.87359" gHeight="19.551337352941" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="15" FONT="Roboto Bold" FONTSIZE="16" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="16" FCOLOR="FromPDF#697084" CH="EDUCATION"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="637.448818897638" OwnPage="0" ItemID="2037034137" PTYPE="4" WIDTH="545.911331735707" HEIGHT="16.1426915200841" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L545.911 0 L545.911 16.1427 L0 16.1427 L0 0 Z" copath="M0 0 L545.911 0 L545.911 16.1427 L0 16.1427 L0 0 Z" gXpos="3.97903932025656e-13" gYpos="110" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084" CH="BSc Computer Science | First Class Honours "/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="Black" CH="@ University of Kent, Canterbury (UK)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="654.96062992126" OwnPage="0" ItemID="2036856089" PTYPE="4" WIDTH="565.259157822663" HEIGHT="60.5874700445053" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L565.259 0 L565.259 60.5875 L0 60.5875 L0 0 Z" copath="M0 0 L565.259 0 L565.259 60.5875 L0 60.5875 L0 0 Z" gXpos="128.346456692913" gYpos="654.96062992126" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Regular"/>
+                <ITEXT FONT="Roboto Italic" FONTSIZE="10" FCOLOR="FromPDF#697084" CH="September 2015 - August 2019"/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH=" Specialized in Object-Oriented Programming, Web Development, Functional &amp; Concurrent Programming and Data Mining."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH=" Received the &quot;"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" FCOLOR="FromPDF#697084" CH="Computer Science Project Prize"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH="&quot; for achieving the highest grade in the final year project among the computer science class."/>
+                <trail ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="725.448818897638" OwnPage="0" ItemID="2037361353" PTYPE="4" WIDTH="545.911331735707" HEIGHT="16.1426915200841" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00000041248137" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L545.911 0 L545.911 16.1427 L0 16.1427 L0 0 Z" copath="M0 0 L545.911 0 L545.911 16.1427 L0 16.1427 L0 0 Z" gXpos="7.97806265495637e-13" gYpos="198" gWidth="566.041766518316" gHeight="118.664498459432" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="14" FCOLOR="FromPDF#697084" CH="High School Diploma | (5.77/6.00) "/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="12" FCOLOR="Black" CH="@ &quot;Atanas Radev&quot; School of Mathematics, Yambol (Bulgaria)"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="741.96062992126" OwnPage="0" ItemID="2037156441" PTYPE="4" WIDTH="566.094488188976" HEIGHT="13.5511811023622" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L566.094 0 L566.094 13.5512 L0 13.5512 L0 0 Z" copath="M0 0 L566.094 0 L566.094 13.5512 L0 13.5512 L0 0 Z" gXpos="128.346456692913" gYpos="741.96062992126" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Roboto Italic" FONTSIZE="10" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Italic" FONTSIZE="10" FCOLOR="FromPDF#697084" CH="September 2004 - May 2008"/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="791.343537721167" OwnPage="0" ItemID="2037509881" PTYPE="7" WIDTH="549.598" HEIGHT="1.13385826771654" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.27559" PCOLOR2="FromPDF#697084" PLINEART="1" path="M0 0 L549.598 0 " copath="M0 0 L549.598 0 L0 0 Z" gXpos="-0.527558307086192" gYpos="543.898424242705" gWidth="550.87359" gHeight="19.551337352941" LAYER="0"/>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="768.92188976378" OwnPage="0" ItemID="2037432425" PTYPE="4" WIDTH="146.998288257446" HEIGHT="18.5201039128424" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L146.998 0 L146.998 18.5201 L0 18.5201 L0 0 Z" copath="M0 0 L146.998 0 L146.998 18.5201 L0 18.5201 L0 0 Z" gXpos="-0.527558307086202" gYpos="521.476776285318" gWidth="550.87359" gHeight="19.551337352941" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="15" FONT="Roboto Bold" FONTSIZE="16" FCOLOR="FromPDF#697084"/>
+                <ITEXT FONT="Roboto Bold" FONTSIZE="16" FCOLOR="FromPDF#697084" CH="TECHNICAL SKILLS"/>
+                <trail LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.346456692913" YPOS="798.96062992126" OwnPage="0" ItemID="2037500505" PTYPE="4" WIDTH="564.911331735707" HEIGHT="44.5439917836355" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L564.911 0 L564.911 44.544 L0 44.544 L0 0 Z" copath="M0 0 L564.911 0 L564.911 44.544 L0 44.544 L0 0 Z" gXpos="128.346456692913" gYpos="798.96062992126" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0" FONT="Roboto Regular" FONTSIZE="10"/>
+                <ITEXT FONTSIZE="10" CH=" Programming Languages: Go, JavaScript, Python,"/>
+                <ITEXT CH=" Dart"/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT FONT="Roboto Regular" FONTSIZE="10" CH=" Frameworks &amp; Libraries: gRPC, Protobuf, SvelteKit, TailwindCSS"/>
+                <ITEXT CH=", Flutter"/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+                <ITEXT CH=" Infrastructure &amp; Databases: PostgreSQL, Kubernetes, Docker, Kafka"/>
+                <trail ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
